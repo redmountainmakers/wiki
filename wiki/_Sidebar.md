@@ -15,7 +15,14 @@
 *   [Becoming a Member](https://www.redmountainmakers.org/join-us)
 ### Spaces
 
-*   [Example Space](example-space/Home)
+*   [Example Space](example-space/HomeExample-Space)
+
+### Safety
+
+*   [Fire](Safety#EVACUATION_SAFETY)
+*   [First Aid](Safety#PERSONAL_SAFETY)
+*   [Building](Safety#EVACUATION_SAFETY)
+*   [Weather](Safety#EVACUATION_SAFETY)
 
 ### Governance
 
