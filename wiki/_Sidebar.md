@@ -15,7 +15,7 @@
 *   [Becoming a Member](https://www.redmountainmakers.org/join-us)
 ### Spaces
 
-*   [Example Space](example-space/Home)
+*   [Example Space]()
 
 ### Safety
 
