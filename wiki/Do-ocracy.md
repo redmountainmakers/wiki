@@ -1,7 +1,7 @@
 Do-ocracy
 =========
 
-Typically when someone wants to do or change something big at the Red Mountain Makerspace, they bring it up at a meeting and/or discuss it on the mailing list. Most of the time many of us just don't want to be troubled with spending a week figuring out if everyone is ok with a small or mundane thing, and so there's Do-ocracy. Do-ocracy tends to work just as long as our only rule is followed, don't be an asshole. If yall need more direction try to instead, [be excellent to each other](wiki/Be-excellent-to-each-other "Be excellent to each other").
+Typically when someone wants to do or change something big at the Red Mountain Makerspace, they bring it up at a meeting and/or discuss it on the mailing list. Most of the time many of us just don't want to be troubled with spending a week figuring out if everyone is ok with a small or mundane thing, and so there's Do-ocracy. Do-ocracy tends to work just as long as our only rule is followed, don't be an asshole. If yall need more direction try to instead, [be excellent to each other](Be-excellent-to-each-other "Be excellent to each other").
 
 **Do-ocracy: If you want something done, do it, but remember to be excellent to each other when doing so.**
 
