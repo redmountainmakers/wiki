@@ -62,6 +62,5 @@
 *   [Bylaws](By-Laws_of_The_Red_Mountain_Makers)
 *   [Standing Rules](Standing_rules)
 *   [Board of Directors & Leadership](https://web.archive.orgBoard_of_Directors_%26_Leadership)
-*   [Board meeting minutes](https://web.archive.orgCategory:Board_meeting)
 *   [Business plan](https://drive.google.com/file/d/0B8cVExho03rPZ2FEanJiVU9hTHM/view?usp=sharing)
 *   [Administration](Category:Administration)
