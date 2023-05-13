@@ -26,5 +26,5 @@
 
 *   [Bylaws](Bylaws)
 *   [Do‐ocracy](Do‐ocracy)
-*   [Board of Directors & Leadership](Board of Directors & Leadership)
+*   [Board of Directors & Leadership](Board-of-Directors-&-Leadership)
 *   [Business plan](https://drive.google.com/file/d/0B8cVExho03rPZ2FEanJiVU9hTHM/view?usp=sharing)
