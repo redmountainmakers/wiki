@@ -2,6 +2,8 @@
 ### Navigation
 
 *   [Home](Home)
+*   [Do‐ocracy](Do‐ocracy)
+*   [Be excellent to each other](Be-excellent-to-each-other)
 *   [RMM Blog](https://www.redmountainmakers.org/)
 
 ### About RMM
