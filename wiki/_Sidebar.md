@@ -1,4 +1,6 @@
-### Navigation
+## Navigation
+
+### External Links
 
 *   [Wiki Home](Home)
 *   [RMM Website](https://www.redmountainmakers.org/)
