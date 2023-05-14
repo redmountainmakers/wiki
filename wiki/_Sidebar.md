@@ -17,11 +17,11 @@
 
 ### Spaces
 
-*   [Wood Shop]()
-*   [Metal Shop]()
-*   [Electronics]()
-*   [3d Printing]()
-*   [Laser Cutting]()
+*   [Wood Shop](Wood-Shop)
+*   [Metal Shop](Metal-Shop)
+*   [Electronics](Electronics)
+*   [3d Printing](3d-Printing)
+*   [Laser Cutting](Laser-Cutting)
 *   [Classroom/Sewing]()
 *   [Photos]()
 *   [Plastics-TBD]()
