@@ -19,8 +19,7 @@
 
 ### Safety
 
-*   [Fire]()
-*   [Custom sidebar link example]()
+*   [Safety](Safety)
 
 ### Governance
 
