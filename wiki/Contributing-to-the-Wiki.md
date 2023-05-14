@@ -1,5 +1,5 @@
-Instructions for how to add information to the wiki can be added here
+Anyone in the world can suggest updates or improvements to this wiki! All that is required is a [GitHub account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account).
 
-*   [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-*   [Issues](https://github.com/redmountainmakers/wiki/issues)
-*   [Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+*   The preferred method of contribution would be [forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and creating a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) that one of the main contributors can merge after review. Some info on [formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is linked here if this is your first time using markdown.
+*   Sometimes creating your first pull request can be intimidating, so you can also submit to the [issues](https://github.com/redmountainmakers/wiki/issues) of this repo any suggested changes or improvements. This is easier, but might take more time for the main contributors to add the information into the wiki
+* However you choose to contribute, the entire RMM community appreciates your contribution!
