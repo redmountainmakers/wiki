@@ -1,5 +1,3 @@
-# Wood Shop
-
 ## Tools
 * [Table Saw](Saw-Stop-Table-Saw)
 * [Bandsaw](Kity-613-Bandsaw)
