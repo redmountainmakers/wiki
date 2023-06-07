@@ -1,3 +1,8 @@
+# Contents
+1. [Tools](#Tools)
+2. [Safety](#Safety)
+
+<a id="Tools"></a>
 ## Tools
 * [Table Saw](Saw-Stop-Table-Saw)
 * [Bandsaw](Kity-613-Bandsaw)
@@ -10,6 +15,7 @@
 * [Clamp Cart]()
 * [Wood Lathe]()
 
+<a id="Safety"></a>
 ## Safety
 ### Safety Gear
 The space comes with a closet of safety gear. This includes eye and ear protection, masks, gloves, and first aid
