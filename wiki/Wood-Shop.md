@@ -1,3 +1,6 @@
+# Wood Shop
+The heart of our Makerspace features a variety of woodworking tools, including saws, planers, lathes, sanders, routers, hand tools, and much more. This shop is extremely versatile, where makers of all varieties will find the right tool for the job. The woodshop also has limited supplies of lumber available for use by members.
+
 ## Contents
 1. [Tools](#tools)
 2. [Safety](#safety-gear)
