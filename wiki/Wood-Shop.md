@@ -1,4 +1,4 @@
-# Contents
+## Contents
 1. [Tools](#Tools)
 2. [Safety](#Safety)
 
