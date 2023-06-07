@@ -1,4 +1,10 @@
-# General Use instructions
+# Contents
+1. [General Use Instructions](general-use-instructions)
+2. [User Manual](user-manual)
+3. [Safety](safety)
+4. [Guide Bearing Alignment](guide-bearing-alignment)
+
+# General Use Instructions
 
 ## Cutting Straight Lines Using a Band Saw
 
@@ -24,13 +30,15 @@ Start by matching the blade to the curve. Then, follow these tips:
 
 The more you use a band saw, the more versatile you’ll find it, and the better you’ll become with it.
 
-* [Links for use instructions]()
+* [Additional Links for use instructions - ToDo]()
+
+## User Manual
 * [Manual](https://github.com/redmountainmakers/wiki/blob/main/wiki/pdfs/Kity-613.pdf)
 
 ## Safety
 * Safety stuff - TBD
 
-## A note about the guide bearing and blade shims
+## Guide Bearing Alignment
 *   Bearing MUST be located just behind the blade. Barely skimming when not cutting:
 <img src="https://raw.githubusercontent.com/wiki/redmountainmakers/wiki/images/Kity-613_bearing_detail.jpeg" width=30% height=30%>
 
