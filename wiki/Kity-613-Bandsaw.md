@@ -1,6 +1,6 @@
 ## Contents
 1. [General Use Instructions](#general-use-instructions)
-2. [Safety](#safety)
+2. [Safety](#safety-info)
 3. [Guide Bearing Alignment](#guide-bearing-alignment)
 4. [User Manual](#user-manual)
 
@@ -32,7 +32,7 @@ The more you use a band saw, the more versatile you’ll find it, and the better
 
 * [Additional Links for use instructions - ToDo]()
 
-## Safety
+## Safety Info
 * Safety stuff - TBD
 
 ## Guide Bearing Alignment
