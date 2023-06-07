@@ -1,6 +1,6 @@
 ## Contents
 1. [Tools](#tools)
-2. [Safety](#safety)
+2. [Safety](#safety-gear)
 
 ## Tools
 * [Bandsaw](Kity-613-Bandsaw)
