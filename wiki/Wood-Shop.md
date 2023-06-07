@@ -4,8 +4,8 @@
 
 <a id="Tools"></a>
 ## Tools
-* [Table Saw](Saw-Stop-Table-Saw)
 * [Bandsaw](Kity-613-Bandsaw)
+* [Table Saw](Saw-Stop-Table-Saw)
 * [Miter Saw]()
 * [Router Table]()
 * [Oscilating Spindle Sander]()
