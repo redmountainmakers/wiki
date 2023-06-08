@@ -1,6 +1,12 @@
-# General Use instructions
+## Contents
+1. [General Use Instructions](#general-use-instructions)
+2. [Safety](#safety-info)
+3. [Guide Bearing Alignment](#guide-bearing-alignment)
+4. [User Manual](#user-manual)
 
-## Cutting Straight Lines Using a Band Saw
+## General Use Instructions
+
+### Cutting Straight Lines Using a Band Saw
 
 Want to cut a straight line with your band saw? Follow these steps:
 
@@ -13,7 +19,7 @@ Want to cut a straight line with your band saw? Follow these steps:
 7.  When the blade stops moving, mark the table with a pencil along the edge of the scrap piece.
 8.  Loosen the bolts that hold the fence, set the fence to that line, and retighten the bolts. That’s the fence setting that is parallel with that blade. You can move the fence normally to vary the width of your cut as needed. If your saw doesn’t have a fence, you can buy aftermarket ones or simply clamp a straight piece of wood to the table.
 
-## Cutting Curves with a Band Saw
+### Cutting Curves with a Band Saw
 
 Start by matching the blade to the curve. Then, follow these tips:
 
@@ -24,13 +30,12 @@ Start by matching the blade to the curve. Then, follow these tips:
 
 The more you use a band saw, the more versatile you’ll find it, and the better you’ll become with it.
 
-* [Links for use instructions]()
-* [Manual](https://github.com/redmountainmakers/wiki/blob/main/wiki/pdfs/Kity-613.pdf)
+* [Additional Links for use instructions - ToDo]()
 
-## Safety
+## Safety Info
 * Safety stuff - TBD
 
-## A note about the guide bearing and blade shims
+## Guide Bearing Alignment
 *   Bearing MUST be located just behind the blade. Barely skimming when not cutting:
 <img src="https://raw.githubusercontent.com/wiki/redmountainmakers/wiki/images/Kity-613_bearing_detail.jpeg" width=30% height=30%>
 
@@ -42,3 +47,6 @@ The more you use a band saw, the more versatile you’ll find it, and the better
 
 *  Excessive cut on back of blade shims indicative of  too much pressure. As well as the rear bearing being out of place.
 <img src="https://raw.githubusercontent.com/wiki/redmountainmakers/wiki/images/Kity-613_bearing_shims_detail.jpeg" width=30% height=30%>
+
+## User Manual
+* [Manual](https://github.com/redmountainmakers/wiki/blob/main/wiki/pdfs/Kity-613.pdf)
