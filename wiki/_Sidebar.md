@@ -26,12 +26,11 @@
 
 *   [Wood Shop](Wood-Shop)
 *   [Metal Shop](Metal-Shop)
-*   [Electronics](Electronics)
-*   [3d Printing](3d-Printing)
+*   [Electronics / 3d Printing](Electronics-3d-Printing)
 *   [Laser Cutting](Laser-Cutting)
+*   [Bio Lab]() 
 *   [Classroom/Sewing]()
-*   [Photos]()
-*   [Plastics-TBD]()
+*   [Entry / Lounge]() 
 
 ### Safety
 
