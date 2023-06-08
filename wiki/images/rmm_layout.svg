@@ -7,7 +7,7 @@
    width="5388.8169"
    height="3634.2605"
    viewBox="0 0 5388.8169 3634.2605"
-   sodipodi:docname="RMM_Layout_6_08.svg"
+   sodipodi:docname="rmm_layout.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -85,8 +85,8 @@
     <rect
        x="158.77104"
        y="1259.2156"
-       width="272.1777"
-       height="154.85948"
+       width="384.80338"
+       height="290.94833"
        id="rect2357" />
     <rect
        x="172.84865"
@@ -424,6 +424,12 @@
        width="417.65305"
        height="122.01076"
        id="rect2711-9" />
+    <rect
+       x="1313.1821"
+       y="3112.8435"
+       width="586.59113"
+       height="262.79263"
+       id="rect2571-6" />
   </defs>
   <sodipodi:namedview
      id="namedview1239"
@@ -436,21 +442,36 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.25571476"
-     inkscape:cx="2600.5539"
+     inkscape:cx="2475.4144"
      inkscape:cy="1951.3931"
      inkscape:window-width="2560"
      inkscape:window-height="1367"
      inkscape:window-x="1920"
      inkscape:window-y="1080"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="layer1">
     <inkscape:page
        x="0"
        y="0"
        id="page1243"
        width="5388.8169"
-       height="3634.2605" />
+       height="3634.2605"
+       inkscape:export-filename="rmm_layout.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Background">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1"
+       id="rect7814"
+       width="5391.9458"
+       height="3641.5579"
+       x="3.9106073"
+       y="-5.4749455" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -499,6 +520,216 @@
        x="41.647827"
        y="713.29462"
        transform="matrix(1.3333333,0,0,1.3333333,0,7.3523176e-5)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       transform="translate(-671.0606,-1206.0314)"
+       id="text2993"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect2995);display:inline;fill:#000000"><tspan
+         x="3232.5078"
+         y="3260.3516"
+         id="tspan12451">Classroom/
+</tspan><tspan
+         x="3232.5078"
+         y="3380.3516"
+         id="tspan12453">Sewing</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="rotate(-90,3605.0876,1378.6567)"
+       id="text2709-2"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2711-9);display:inline;fill:#000000"><tspan
+         x="3650.1602"
+         y="576.00589"
+         id="tspan12455">Restroom</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="rotate(-90,3493.0205,1494.9034)"
+       id="text2709"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2711);display:inline;fill:#000000"><tspan
+         x="3650.1602"
+         y="576.00589"
+         id="tspan12457">Restroom</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(439.88807,-1034.6497)"
+       id="text2703-75"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-3);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12459">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(-9.3850756,65.697917)"
+       id="text2563"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect2565);display:inline;fill:#000000"><tspan
+         x="1777.7617"
+         y="307.06055"
+         id="tspan12461">Metal Shop</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(37.542212,-281.56373)"
+       id="text2569"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect2571);display:inline;fill:#000000"><tspan
+         x="1313.1816"
+         y="3197.7812"
+         id="tspan12463">Electronics/</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(42.615159,-161.77396)"
+       id="text2569-1"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect2571-6);display:inline;fill:#000000"><tspan
+         x="1313.1816"
+         y="3197.7812"
+         id="tspan12465">3d Printing</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(46.927288,-9.3850757)"
+       id="text2575"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect2577);display:inline;fill:#000000"><tspan
+         x="97.765625"
+         y="3315.0996"
+         id="tspan12467">Admin</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="rotate(-90,508.28349,2969.5904)"
+       id="text2587"
+       style="font-size:85.3333px;white-space:pre;shape-inside:url(#rect2589);display:inline;fill:#000000"><tspan
+         x="384.02148"
+         y="2620.5234"
+         id="tspan12469">Conference</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(51.619827,56.312363)"
+       id="text2697"
+       style="font-size:64px;white-space:pre;shape-inside:url(#rect2699);display:inline;fill:#000000"><tspan
+         x="623.34961"
+         y="3105.334"
+         id="tspan12471">Laser Cutting</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(-2510.6099,-849.38372)"
+       id="text2703"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12473">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(1257.206,-208.72961)"
+       id="text2703-9"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-2);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12475">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(1253.2954,-656.10271)"
+       id="text2703-2"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-1);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12477">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(1261.8975,-1111.2975)"
+       id="text2703-0"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-7);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12479">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(1254.8582,-1546.9392)"
+       id="text2703-3"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-9);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12481">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(1247.039,-2052.972)"
+       id="text2703-06"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-6);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12483">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(443.01771,-2067.05)"
+       id="text2703-1"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-26);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12485">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(3.4648744,-2063.1399)"
+       id="text2703-7"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-8);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12487">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(-8.2669543,-1038.5603)"
+       id="text2703-02"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-92);display:inline;fill:#000000"><tspan
+         x="3438.9883"
+         y="3325.9453"
+         id="tspan12489">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="rotate(33.92856,3203.8736,1893.1636)"
+       id="text5237"
+       style="font-size:85.3333px;white-space:pre;shape-inside:url(#rect5239);display:inline;opacity:1;fill:#000000;fill-opacity:1"><tspan
+         x="2800.7773"
+         y="3265.7734"
+         id="tspan12491">Storage</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(-9.3860304)"
+       id="text2999"
+       style="font-size:85.3333px;white-space:pre;shape-inside:url(#rect3001);display:inline;fill:#000000"><tspan
+         x="2092.1758"
+         y="3185.2148"
+         id="tspan12493">Bio Lab</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(1146.994,80.070952)"
+       id="text2355-5"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect2357-7);display:inline;fill:#000000"><tspan
+         x="158.77148"
+         y="1344.1523"
+         id="tspan12495">Wood Shop</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="translate(32.848719,56.312841)"
+       id="text2355"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect2357);display:inline;fill:#000000"><tspan
+         x="158.77148"
+         y="1344.1523"
+         id="tspan12497">Entry/
+</tspan><tspan
+         x="158.77148"
+         y="1464.1523"
+         id="tspan12499">Lounge
+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5353"
+       style="font-size:64px;white-space:pre;shape-inside:url(#rect5355);display:inline;opacity:1;fill:#000000;fill-opacity:1"
+       transform="translate(-610.05474,502.1216)"><tspan
+         x="3542.2285"
+         y="623.66406"
+         id="tspan12501">Electrical/
+</tspan><tspan
+         x="3542.2285"
+         y="703.66406"
+         id="tspan12503">Utility</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1750,210 +1981,13 @@
     </g>
     <a
        id="a6247"
-       target="Wood-Shop"
-       xlink:href="Wood-Shop">
+       target=""
+       xlink:href="https://github.com/redmountainmakers/wiki/wiki/Wood-Shop"
+       transform="matrix(1.0106662,0,0,1,-26.019603,0)">
       <path
          style="opacity:0.5;fill:#552200;fill-opacity:1"
          d="m 679.66374,956.53446 1750.38726,-4.69254 9.386,1708.15298 h -938.5457 l 4.6925,-464.5799 -821.22752,4.6926 z"
          id="path5555" />
     </a>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Text">
-    <text
-       xml:space="preserve"
-       transform="translate(-671.0606,-1206.0314)"
-       id="text2993"
-       style="font-size:96px;white-space:pre;shape-inside:url(#rect2995);display:inline;fill:#000000"><tspan
-         x="3232.5078"
-         y="3260.3516"
-         id="tspan7711">Multipurpose
-</tspan><tspan
-         x="3232.5078"
-         y="3380.3516"
-         id="tspan7713">&quot;Clean Room&quot;</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="rotate(-90,3605.0876,1378.6567)"
-       id="text2709-2"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2711-9);display:inline;fill:#000000"><tspan
-         x="3650.1602"
-         y="576.00589"
-         id="tspan7715">Restroom</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="rotate(-90,3493.0205,1494.9034)"
-       id="text2709"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2711);display:inline;fill:#000000"><tspan
-         x="3650.1602"
-         y="576.00589"
-         id="tspan7717">Restroom</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(439.88807,-1034.6497)"
-       id="text2703-75"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-3);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7719">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(-9.3850756,65.697917)"
-       id="text2563"
-       style="font-size:96px;white-space:pre;shape-inside:url(#rect2565);display:inline;fill:#000000"><tspan
-         x="1777.7617"
-         y="307.06055"
-         id="tspan7721">Metal Shop</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(37.542212,-281.56373)"
-       id="text2569"
-       style="font-size:96px;white-space:pre;shape-inside:url(#rect2571);display:inline;fill:#000000"><tspan
-         x="1313.1816"
-         y="3197.7812"
-         id="tspan7723">Electronics</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(46.927288,-9.3850757)"
-       id="text2575"
-       style="font-size:96px;white-space:pre;shape-inside:url(#rect2577);display:inline;fill:#000000"><tspan
-         x="97.765625"
-         y="3315.0996"
-         id="tspan7725">Admin</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="rotate(-90,508.28349,2969.5904)"
-       id="text2587"
-       style="font-size:85.3333px;white-space:pre;shape-inside:url(#rect2589);display:inline;fill:#000000"><tspan
-         x="384.02148"
-         y="2620.5234"
-         id="tspan7727">Conference</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(51.619827,56.312363)"
-       id="text2697"
-       style="font-size:64px;white-space:pre;shape-inside:url(#rect2699);display:inline;fill:#000000"><tspan
-         x="623.34961"
-         y="3105.334"
-         id="tspan7729">Laser Cutting</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(-2510.6099,-849.38372)"
-       id="text2703"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7731">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(1257.206,-208.72961)"
-       id="text2703-9"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-2);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7733">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(1253.2954,-656.10271)"
-       id="text2703-2"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-1);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7735">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(1261.8975,-1111.2975)"
-       id="text2703-0"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-7);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7737">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(1254.8582,-1546.9392)"
-       id="text2703-3"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-9);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7739">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(1247.039,-2052.972)"
-       id="text2703-06"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-6);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7741">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(443.01771,-2067.05)"
-       id="text2703-1"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-26);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7743">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(3.4648744,-2063.1399)"
-       id="text2703-7"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-8);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7745">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(-8.2669543,-1038.5603)"
-       id="text2703-02"
-       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect2705-92);display:inline;fill:#000000"><tspan
-         x="3438.9883"
-         y="3325.9453"
-         id="tspan7747">Studio</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="rotate(33.92856,3203.8736,1893.1636)"
-       id="text5237"
-       style="font-size:85.3333px;white-space:pre;shape-inside:url(#rect5239);display:inline;opacity:1;fill:#000000;fill-opacity:1"><tspan
-         x="2800.7773"
-         y="3265.7734"
-         id="tspan7749">Storage</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(-9.3860304)"
-       id="text2999"
-       style="font-size:85.3333px;white-space:pre;shape-inside:url(#rect3001);display:inline;fill:#000000"><tspan
-         x="2092.1758"
-         y="3185.2148"
-         id="tspan7751">Bio Lab</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(1146.994,80.070952)"
-       id="text2355-5"
-       style="font-size:96px;white-space:pre;shape-inside:url(#rect2357-7);display:inline;fill:#000000"><tspan
-         x="158.77148"
-         y="1344.1523"
-         id="tspan7753">Wood Shop</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(32.848719,56.312841)"
-       id="text2355"
-       style="font-size:96px;white-space:pre;shape-inside:url(#rect2357);display:inline;fill:#000000"><tspan
-         x="158.77148"
-         y="1344.1523"
-         id="tspan7755">Entry
-</tspan></text>
-    <text
-       xml:space="preserve"
-       id="text5353"
-       style="font-size:64px;white-space:pre;shape-inside:url(#rect5355);display:inline;opacity:1;fill:#000000;fill-opacity:1"
-       transform="translate(-610.05474,502.1216)"><tspan
-         x="3542.2285"
-         y="623.66406"
-         id="tspan7757">Electrical/
-</tspan><tspan
-         x="3542.2285"
-         y="703.66406"
-         id="tspan7759">Utility</tspan></text>
   </g>
 </svg>
