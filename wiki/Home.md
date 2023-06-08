@@ -6,7 +6,7 @@ Our mission as a technical cooperative is to engage in scientific and artistic r
 
 ---
 <img src="https://raw.githubusercontent.com/wiki/redmountainmakers/wiki/images/rmm_layout.png" width=50% height=50%>
----
+
 
 | Space             |  Item |
 :-------------------------:|:-------------------------:
