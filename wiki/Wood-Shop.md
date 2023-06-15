@@ -10,13 +10,17 @@ The 1400 ft<sup>2</sup> heart of our Makerspace features a variety of woodworkin
 * [Table Saw](Saw-Stop-Table-Saw)
 * [Miter Saw]()
 * [Router Table]()
-* [Oscilating Spindle Sander]()
-* [Hand tools]()
 * [Planer]()
 * [Jointer]()
 * [Clamp Cart]()
 * [Wood Lathe]()
-
+* [Drill Press]()
+* [Belt/Disc Sander]()
+* [Oscilating Spindle Sander]()
+* [Bench Grinder]()
+* [Hand tools]()
+* [Dust Collection/Air Filtration]()
+* [Consumables]()
 ## Safety
 ### Safety Gear
 The space comes with a closet of safety gear. This includes eye and ear protection, masks, gloves, and first aid
