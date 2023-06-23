@@ -39,7 +39,13 @@ The more you use a band saw, the more versatile you’ll find it, and the better
 ## Safety Info
 * Safety stuff - TBD
 
+## How To
+
+<details>
+<summary>Guide Bearing Alignment</summary>
+
 ## Guide Bearing Alignment
+
 *   Bearing MUST be located just behind the blade. Barely skimming when not cutting:
 <img src="images/Kity-613_bearing_detail.jpeg" width=30% height=30%>
 
@@ -51,6 +57,7 @@ The more you use a band saw, the more versatile you’ll find it, and the better
 
 *  Excessive cut on back of blade shims indicative of  too much pressure. As well as the rear bearing being out of place.
 <img src="images/Kity-613_bearing_shims_detail.jpeg" width=30% height=30%>
+</details>
 
 ## User Manual
 * [Manual](pdfs/Kity-613.pdf)
