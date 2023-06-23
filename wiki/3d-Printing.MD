@@ -18,11 +18,11 @@ So you want to learn about 3D printing? We have quite a few printers at RMM in m
 
 ## Machines at the space
 
-###Functioning Machines:
+### Functioning Machines:
 * Voron V2.4 350mm with Revo Nozzle (http://voron-350.local/)
 * Ender 3 (SD card)
 
-###Non-Functioning Machines:
+### Non-Functioning Machines:
 * Voron V0 (http://3dp-v0-450.local/)
 * 2x Ender 3's
 * Custom delta
