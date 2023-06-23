@@ -4,7 +4,7 @@ So you want to learn about 3D printing? We have quite a few printers at RMM in m
 
 <p align="center">
   <a href="images/3d_Printing_Process.png" target="_blank">
-    <img src="images/3d_Printing_Process.png" alt="3D Printing Process" width="100%" height="100%">
+    <img src="images/3d_Printing_Process.png" alt="3D Printing Process" width="80%" height="80%">
   </a>
 </p>
 
