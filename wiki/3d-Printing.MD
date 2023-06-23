@@ -12,9 +12,27 @@ So you want to learn about 3D printing? We have quite a few printers at RMM in m
 
 3D printers use G-code, a sort of standardized language for CNC machines of all sorts. You start with a 3d design, export a mesh (aka a .3MF or .STL file), and run it through a program called a slicer. The slicer needs to know about the design, the printer, and the material you're going to use in order to do its job. The slicer cuts the mesh into thin slices called layers, figures out how to coordinate all the moving parts of the printer to produce the object you desire, and stores the printer instructions in a gcode file. Getting the best results from a 3D printer depends on knowing about the process in general, the specific printer you're going to use, and how to apply different slicer options to the design you're going to print. Expect to have some failures along the way- it takes some experience to get good at it, but you'll figure it all out with a little practice, and there are experts at the Makerspace who can help you.
 
+## 3d Printer Types
+
+There are many different kinds of 3D printers. RMM primarily uses two types of additive manufacturing: filament-based printers using FDM (Fused Deposition Modeling) or FFF (Fused Filament Fabrication) technology, and resin printers using MSLA (Masked Stereolithography) technology.
+
+Both types of technology have quirks that make them nothing like traditional 2D printers where you can simply press “print” and expect a finished product in seconds with little to no complication. Objects can take several hours or even days to print depending on their size and complexity. Settings in your slicer, the model you are printing, the material used, and your preparation can make the difference between success and failure. While 3D printing has gotten substantially more accessible in the past few years you will still need to experiment and troubleshoot to achieve the best results.
+
+### FDM/FFF
+FDM/FFF printers operate like hot glue guns that apply a thin layer of melted plastic on top of the print bed and previously deposited layers. The melted plastic is quickly cooled by a fan to solidify in place. This is by far the most accessible and common method of 3D printing on the market today. It is great for rapid prototyping and larger decorative items and is very versatile because of the variety of possible materials that can be used. This technology is also relatively easy to scale into larger format machines allowing for large build volumes. Due to the nature of melted plastic, this method suffers when encountering steep overhangs so support material is often required to achieve optimal results of complex geometries. This technology also struggles with very fine details and produces noticeable layer lines in completed parts.
+
+### MSLA
+MSLA printers use a photopolymer resin which cures with exposure to UV light. A high-power UV LED shines through an LCD screen which masks off the light to only cure very precise parts of the liquid resin. The very fine control of light allows for incredible detail comparable to injection-molded plastic parts. This technology is very difficult to scale up in size which limits the build volume far more than on FDM printers. Additionally, while the cured resin is completely safe to handle, the liquid resin is very toxic and can be quite damaging to the environment so care is required both during and after printing to limit exposure to uncured resin.
+
 ## Find a Model
 
+There is a vast array of 3d models available on the internet. www.thangs.com does a decent job of aggregating files from multiple sources, but sites such as www.thingiverse.com, www.printables.com are very popular as well. 
+
+Be forewarned that some of the models at those sites are unprintable on FFF printers like those at the Makerspace. When a model is printable, its author usually posts a photo of the printed object. If you don't see a photo, it may require adjustments to make the object printable. Unprintable models can often serve as inspiration for you to design a better, printable version of the object. Ultimaker has a nice list of model sources here https://ultimaker.com/learn/how-to-find-free-stl-files/
+
 ## Make a Model
+
+Todo - Add information on different options for creating a 3d model
 
 ## Slicer
 
@@ -32,14 +50,18 @@ Here are a few Slicer packages:
 
 ## Upload and Print
 
+We are working to migrate all of our printers onto the RMM network. See the Machines list below to check how to access them via the network.
+
+Network connected machines use Mainsail OS as the primary printer interface.
+
 ## Machines at the space
 
 ### Functioning Machines:
-* Voron V2.4 350mm with Revo Nozzle (http://voron-350.local/)
+* Voron V2.4 350mm with Revo Nozzle (http://voron-350.local/) - Side panels need weather stripping and re-attached, bowden for the filter box
 * Ender 3 (SD card)
 
 ### Non-Functioning Machines:
-* Voron V0 (http://3dp-v0-450.local/)
+* Voron V0 (http://3dp-v0-450.local/) - Raspberry pi problems? Door un-attached itself
 * 2x Ender 3's
 * Custom delta
 
