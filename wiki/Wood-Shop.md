@@ -35,10 +35,14 @@ Another set of first aid supplies are located in the classroom
 
 ### DUST COLLECTION
 * Ensure when you begin use of the shop, both air filters are turned on. Sawdust is a carcinogenic, especially fine particles
-* {Image of both air filters}
+<img src="images/Wood-Shop_air_filter_1.png" width=30% height=30%><img src="images/Wood-Shop_air_filter_2.png" width=30% height=30%>
 * There is a central dust collector with a button fob to activate it. The following equipment requires it to be turned on and have the collection pipe connected:
- * Tablesaw
- * Router
- * Bandsaw
+
+    * Tablesaw
+    * Router
+    * Bandsaw
+
+<img src="images/Wood-Shop_dust_collector.png" width=30% height=30%>
+
 * All other equipment except the Miter saw has exhaust ports that can be attached to shop vacs. 
 
