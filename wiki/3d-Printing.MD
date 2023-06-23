@@ -1,8 +1,8 @@
 # 3d Printing
 
 ## Contents
-1. [Process Overview](#tools)
-2. [3d Printer Types](#safety-gear)
+1. [Process Overview](#process-overview)
+2. [3d Printer Types](#3d-printer-types)
 3. [Find a Model](#find-a-model)
 4. [Make a Model](#make-a-model)
 5. [Slicer](slicer)
