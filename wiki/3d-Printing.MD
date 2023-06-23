@@ -63,7 +63,7 @@ We are working to migrate all of our printers onto the RMM network. See the Mach
 
 Network connected machines use Mainsail OS as the primary printer interface.
 
-## Machines at the space
+## Machines at RMM
 
 ### Functioning Machines:
 * Voron V2.4 350mm with Revo Nozzle (http://voron-350.local/) - Side panels need weather stripping and re-attached, bowden for the filter box
