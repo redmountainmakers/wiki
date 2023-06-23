@@ -1,5 +1,14 @@
 # 3d Printing
 
+## Contents
+1. [Process Overview](#tools)
+2. [3d Printer Types](#safety-gear)
+3. [Find a Model](#find-a-model)
+4. [Make a Model](#make-a-model)
+5. [Slicer](slicer)
+6. [Upload and Print](upload-and-print)
+7. [Machines at RMM](machines-at-rmm)
+
 So you want to learn about 3D printing? We have quite a few printers at RMM in many stages of repair. A list of many of them can be found at the bottom of this page. There are usually a few that are able to print attractive plastic objects at any given moment.
 
 <p align="center">
