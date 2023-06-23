@@ -3,7 +3,9 @@
 So you want to learn about 3D printing? We have quite a few printers at RMM in many stages of repair. A list of many of them can be found at the bottom of this page. There are usually a few that are able to print attractive plastic objects at any given moment.
 
 <p align="center">
-  <img src="images/3d_Printing_Process.png" alt="3D Printing Process" width="75%" height="75%">
+  <a href="images/3d_Printing_Process.png" target="_blank">
+    <img src="images/3d_Printing_Process.png" alt="3D Printing Process" width="75%" height="75%">
+  </a>
 </p>
 
 ## Process Overview
