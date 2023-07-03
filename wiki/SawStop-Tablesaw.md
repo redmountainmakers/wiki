@@ -30,4 +30,4 @@ The SawStop 10” Professional Cabinet Saw is a versatile tool capable of handli
 If you have any further questions or need additional information, please feel free to ask in the Discord or if anyone is present in the space.
 
 ## User Manual
-* [Manual](https://github.com/redmountainmakers/wiki/blob/main/wiki/pdfs/SawStop-Tablesaw.pdf)
+* [Manual](pdfs/SawStop-Tablesaw.pdf)
