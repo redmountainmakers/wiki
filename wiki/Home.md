@@ -13,7 +13,7 @@ It is our mission as a technical cooperative is to engage in scientific and arti
 
 | Space             |  Item |
 :-------------------------:|:-------------------------:
- | [Wood Shop](Wood-Shop) | [Bandsaw](Kity-613-Bandsaw.md), [Table Saw](SawStop-Tablesaw), [Miter Saw](), [Router Table](), [Planer](), [Jointer](), [Clamp Cart](), [Wood Lathe](), [Drill Press](), [Belt/Disc Sander](), [Oscilating Spindle Sander](), [Bench Grinder](), [Hand tools](), [Dust Collection/Air Filtration](), [Consumables]()
+ | [Wood Shop](Wood-Shop) | [Bandsaw](Kity-613-Bandsaw), [Table Saw](SawStop-Tablesaw), [Miter Saw](), [Router Table](), [Planer](), [Jointer](), [Clamp Cart](), [Wood Lathe](), [Drill Press](), [Belt/Disc Sander](), [Oscilating Spindle Sander](), [Bench Grinder](), [Hand tools](), [Dust Collection/Air Filtration](), [Consumables]()
 | [Metal Shop](Metal-Shop) | [Metal Lathe](), [20 Ton Press](), [Welders](), [Plasma Cutter](), [Acetylene Torch](), [Welding Tables](), [40" 3-in-1 Fabricating Machine](), [Hydraulic Hole Punching Tool](), [Horizontal/Vertical Bandsaw](), [Portable Deep Cut Bandsaw](), [Air Compressor](), [Bench Grinders](), [Forge](), [Anvils](), [Post Vise](), [Compact Bender](), [Throatless Shear](), [Metal Grinders](), [Kilns](), [Consumables]()
 | [Electronics / 3d Printing]() | [SMD Rework Stations](), [Soldering Stations](), [Electronic Components](), [Reflow Oven](), [Digital Oscilloscope](), [FDM 3d Printers](), [Resin 3d Printer](), [Pressure Pot](), [Vacuum Chamber/Pump](), [3d Printing PC Console](), [Consumables]()
 | [Laser Cutting](Laser-Cutting) | [100W CO<sub>2</sub> Laser Cutter](), [Laser Cutter PC Console](), [Chiller](), [Exhaust Fan]()
