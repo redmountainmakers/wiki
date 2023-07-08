@@ -7,7 +7,7 @@ The 1400 ft<sup>2</sup> heart of our Makerspace features a variety of woodworkin
 
 ## Tools
 * [Bandsaw](Kity-613-Bandsaw)
-* [Table Saw](Saw-Stop-Table-Saw)
+* [Table Saw](SawStop-Tablesaw)
 * [Miter Saw]()
 * [Router Table]()
 * [Planer]()

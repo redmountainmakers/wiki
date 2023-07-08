@@ -16,6 +16,9 @@ The SawStop 10” Professional Cabinet Saw is equipped with several safety featu
 - It is worth wearing appropriate safety equipment, including safety glasses, hearing protection, and a dust mask.
 
 ## General Use
+
+* https://www.youtube.com/watch?v=tOylRB8wq2c&t=25s
+
 The SawStop 10” Professional Cabinet Saw is a versatile tool capable of handling various cutting tasks. Here are some general instructions for using the saw effectively:
 
 1. Prepare the saw for operation by ensuring the angle of the blade (check squareness on straight cuts) and the blade is securely tightened. 
@@ -26,8 +29,15 @@ The SawStop 10” Professional Cabinet Saw is a versatile tool capable of handli
 6. Ensure the dust collection unit is turned on and the tube is connected to the saw.
 6. Start the saw and guide the material through the blade using appropriate techniques and safety accessories.
 7. Once the cut is complete, turn off the saw and wait for the blade to come to a complete stop before removing the cut pieces.
+8. When you're done with your project, be sure to clean up after yourself
+10. Lower the blade below the surface
+11. Sweep up and vacuum any dust
+12. Turn off the dust collector
 
 If you have any further questions or need additional information, please feel free to ask in the Discord or if anyone is present in the space.
+
+## User Manual
+* [Manual](pdfs/SawStop-Tablesaw.pdf)
 
 ## User Manual
 * [Manual](pdfs/SawStop-Tablesaw.pdf)
