@@ -38,6 +38,3 @@ If you have any further questions or need additional information, please feel fr
 
 ## User Manual
 * [Manual](pdfs/SawStop-Tablesaw.pdf)
-
-## User Manual
-* [Manual](pdfs/SawStop-Tablesaw.pdf)
