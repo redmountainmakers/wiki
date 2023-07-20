@@ -17,7 +17,7 @@ The miter saw, a.k.a chop saw or drop saw, is a power tool commonly used to make
 
 - Familiarize yourself with the manufacturer's instructions and safety guidelines provided in the miter saw's manual. Adhere to all recommended procedures and precautions.
 
-General Use Instructions:
+## General Use
 
 - Set the miter angle and bevel angle on the miter saw according to your desired cut. Consult the miter saw's manual for instructions on how to make these adjustments.
 
