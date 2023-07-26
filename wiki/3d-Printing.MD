@@ -51,10 +51,10 @@ Here are a few Slicer packages:
 
 | Name | Cost | Docs | Notes |
 | --- | --- | --- | --- |
-| [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) | Free, Open Source | [Documentation](https://help.prusa3d.com/article/general-info_1910#_ga=2.158641402.174293328.1671403790-30271253.1669246106) | Based off Slic3r, highly configurable and very well tuned. A favorite at MMS |
+| [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) | Free, Open Source | [Documentation](https://help.prusa3d.com/article/general-info_1910#_ga=2.158641402.174293328.1671403790-30271253.1669246106) | Based off Slic3r, highly configurable and very well tuned. A favorite at RMM |
 | [Cura](https://ultimaker.com/en/products/cura-software) | Free, Open Source | [Web Help](https://ultimaker.com/en/resources/20406-installation-cura-2-1) | Great for Ultimaker printers, more versatile but lower print quality than PrusaSlicer |
 | [Simplify3D](https://www.simplify3d.com/) | About $150 | [Web Help](https://www.simplify3d.com/support/) | Haven't tried it |
-| [ChituBox](https://www.chitubox.com/en/index) | Free/Premium license, closed | [Web Help](https://manual.chitubox.com/) | Required slicer for Chitu ecosystem resin printers |
+| [ChituBox](https://www.chitubox.com/en/index) | Free/Premium license, closed | [Web Help](https://manual.chitubox.com/) | Required slicer for Chitu ecosystem resin printers* (New versions of Prusa Slicer might be able to print resin) |
 
 
 ## Upload and Print
