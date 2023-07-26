@@ -67,11 +67,13 @@ Network connected machines use Mainsail OS as the primary printer interface.
 
 ### Functioning Machines:
 * Voron V2.4 350mm with Revo Nozzle (http://voron-350.local/) - Side panels need weather stripping and re-attached, bowden for the filter box
-* Ender 3 (SD card)
+* 2x Creality Ender 3's (SD card)
+* Creality CR10 S5 (SD card)
 
 ### Non-Functioning Machines:
 * Voron V0 (http://3dp-v0-450.local/) - Raspberry pi problems? Door un-attached itself
-* 2x Ender 3's
+* 1x Ender 3's
+* Custom CoreXY
 * Custom delta
 
 
