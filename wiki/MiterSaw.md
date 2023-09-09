@@ -37,4 +37,7 @@ The miter saw, a.k.a chop saw or drop saw, is a power tool commonly used to make
 
 - Sawdust collects underneath the miter saw station.  Please use the dustpan and broom to clean up the sawdust after use.
 
+## Unlocking the Miter Saw
+- The miter saw has a black pin at the back to lock. This usually is not locked, but in case it is, pull the pin out to release the miter saw.
+
 If you have any further questions or need additional information, please feel free to ask in the Discord or if anyone is present in the space.
